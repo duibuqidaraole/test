@@ -1,0 +1,11 @@
+$ git config --global user.name "liu"
+
+
+$ git config --global user.email "username@liu.com"
+
+
+duibuqidaraole
+
+aini1314
+
+1638354418@qq.com
